@@ -7,13 +7,13 @@ print("hello world!")
 name = input("What is your name? ")
 print("Nice to meet you,", name)
 
-# function that takes arguments
+# function that takes parameters
 
 
 # function that returns a value
 
 
-# function with default value for an argument
+# function with default value for an parameter
 
 
-# function with variable number of arguments
+# function with variable number of parameters
