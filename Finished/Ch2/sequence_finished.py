@@ -31,17 +31,10 @@ print(mytuple[1])
 # Sets are also sequences, but they contain unique values
 myset = {1, 2, 3, 2, 4, "hey"}
 print(myset)
+# Set, however, can not be indexed like lists or tuples
+# print(myset[0]) # this will cause an error
 
 # Test for membership
 print(1 in mylist)
 print(3 in mytuple)
 print(5 in myset)
-
-# Dictionary: a key-value data structure
-mydict = {
-    "one" : 1, 
-    "two" : 2
-}
-
-# dictionaries are accessed via keys
-print(mydict["one"]) 
