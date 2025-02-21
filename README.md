@@ -9,6 +9,13 @@ This is the repository for the LinkedIn Learning course `Learning Python`. The f
 
  <p>This course includes Code Challenges powered by CoderPad. Code Challenges are interactive coding exercises with real-time feedback, so you can get hands-on coding practice alongside the course content to advance your programming skills.</p>
 
+## Instructor
+
+Joe Marini
+
+Technology Industry Veteran                  
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini?u=104).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
